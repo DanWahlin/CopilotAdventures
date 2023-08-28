@@ -2,10 +2,7 @@ function timeDifference(clockTime, grandClockTime) {
     const [clockHour, clockMinute] = clockTime.split(":").map(Number);
     const [grandClockHour, grandClockMinute] = grandClockTime.split(":").map(Number);
 
-    const clockTotalMinutes = clockHour * 60 + clockMinute;
-    const grandClockTotalMinutes = grandClockHour * 60 + grandClockMinute;
-
-    return clockTotalMinutes - grandClockTotalMinutes;
+    return (clockHour - grandClockHour) * 60 + (clockMinute - grandClockMinute);
 }
 
 function synchronizeClocks(clockTimes, grandClockTime) {

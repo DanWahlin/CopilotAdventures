@@ -16,7 +16,7 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
     - Each creature can perform one of three dance moves: `Twirl`, `Leap`, or `Spin`.
     - The combination of moves from both creatures results in a magical effect:
         - Twirl + Twirl = Fireflies light up the forest.
-        - Leap + Spin = Gentle rain starts pouring.
+        - Leap + Spin = Gentle rain starts falling.
         - Spin + Leap = A rainbow appears in the sky.
         - Other combinations create different effects that you can dream up.
   

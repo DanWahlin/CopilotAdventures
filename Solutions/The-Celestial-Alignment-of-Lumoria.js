@@ -1,19 +1,17 @@
 function calculateLightIntensity(planets) {
-    let sortedPlanets = [...planets].sort((a, b) => a.distance - b.distance);
-    let results = [];
+    const sortedPlanets = planets.sort((a, b) => a.distance - b.distance);
+    const results = [];
+    let largerPlanetsCount = 0;
 
     for (let i = 0; i < sortedPlanets.length; i++) {
-        let shadowCount = 0;
-        for (let j = 0; j < i; j++) {
-            if (sortedPlanets[j].size >= sortedPlanets[i].size) {
-                shadowCount++;
-            }
+        if (i > 0 && sortedPlanets[i - 1].size >= sortedPlanets[i].size) {
+            largerPlanetsCount++;
         }
 
         let intensity;
-        if (shadowCount === 0) {
+        if (largerPlanetsCount === 0) {
             intensity = 'Full';
-        } else if (shadowCount === 1) {
+        } else if (largerPlanetsCount === 1) {
             intensity = 'None';
         } else {
             intensity = 'None (Multiple Shadows)';
