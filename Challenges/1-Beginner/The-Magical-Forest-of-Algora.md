@@ -1,5 +1,7 @@
 ## The Magical Forest of Algora
 
+<img src="../../Images/algora-forest.png" width="300" height="300" />
+
 ### Background:
 
 Deep within the enchanted Forest of Algora, two mystical creatures, the Lox and the Faelis, perform a sacred dance every millennium. This dance is not just for celebration but is a ritual to bring balance to the forest.
