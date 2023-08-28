@@ -1,8 +1,8 @@
 # Copilot Challenge
 
-![GitHub Copilot](./images/robot-challenge.png)
+![GitHub Copilot Challenge](./Images/robot-challenge.png)
 
-Welcome to the Copilot Challenge! This challenge is all about learning new concepts and languages by using GitHub Copilot to help you write code.
+Welcome to the Copilot Challenge! This challenge is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code.
 
 ## Choose Your Own Adventure
 
