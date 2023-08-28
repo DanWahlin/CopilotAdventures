@@ -16,9 +16,10 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 
 1. Once you're through your first challenge, try another one but this time, use a different language. You can also try a more advanced challenge if you're up for it!
 
-## Create a UI for Your Challenge
+## Next Challenge: Create a UI for Your Challenge
 
 1. Once you've completed a challenge, try creating a UI for it. Use pure HTML/CSS/JavaScript or a library/framework of your choosing.
+1. If you're UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or other AI image generation services.
 
 ## Submit Your Own Copilot Challenge
 
