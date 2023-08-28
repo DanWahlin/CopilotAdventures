@@ -4,7 +4,7 @@
 
 Welcome to the Copilot Challenge! This challenge is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code.
 
-## Choose Your Own Adventure
+## Choose Your Own Copilot Adventure
 
 1. Choose a challenge from the [Challenges](./Challenges) folder. You'll find challenges for different skill levels.
 1. Read the challenge description and the high-level steps to perform.
