@@ -26,4 +26,12 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 
 ## Submit Your Own Copilot Challenge
 
-Do you have a copilot challenge story/puzzle you'd like to submit for others to go through? We'd love to see it! Please submit a pull request to this repository with your challenge and solution. Follow the challenge story template used with each story in the [Challenges](./Challenges) folder, provide an image for your challenge, and provide a solution using your chosen language. We'll review your submission and merge it into the repo if it meets the criteria.
+Do you have a copilot challenge story/puzzle you'd like to submit for others to go through? We'd love to see it! Please submit a pull request to this repository with your challenge and solution. 
+
+- Add `New Copilot Challenge: [Your Challenge Name]` into the PR title. Replace `[Your Challenge Name]` with the name of your challenge.
+- Include if your challenge is at the beginner, intermediate, or advanced level.
+- Follow the markdown template used with each challenge in the [Challenges](./Challenges) folder as you create your challenge.
+- Provide an image for your challenge (use [Bing Image Creator](https://www.bing.com/create) or another image generator solution).
+- Provide a solution using your chosen language. Place all of the code in a single file (to keep things simple) and include it in the PR.
+
+We'll review your submission and merge it into the repo if it meets the criteria.
