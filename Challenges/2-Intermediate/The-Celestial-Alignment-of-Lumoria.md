@@ -1,5 +1,7 @@
 ## The Celestial Alignment of Lumoria
 
+<img src="../../Images/lumoria.png" width="350" height="350" />
+
 ### Background:
 
 In the vast expanse of the Galaxia Nebulae, a rare phenomenon is about to occur in the Lumoria star system. The planets, revolving around the Lumorian Sun, are aligning in a celestial dance that happens only once every few millennia. This alignment has a unique effect on how the light from the Lumorian Sun reaches each planet.

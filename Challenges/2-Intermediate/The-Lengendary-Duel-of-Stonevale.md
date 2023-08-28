@@ -1,5 +1,7 @@
 ## The Legendary Duel of Stonevale
 
+<img src="../../Images/stonevalue.png" width="350" height="350" />
+
 ### Background:
 
 In the mystical realm of Stonevale, two warriors, Rok and Papyra, are chosen for a duel that determines the fate of their tribes for the next century. The arena, known as Scissoria, is where each move carries weight and consequences.
