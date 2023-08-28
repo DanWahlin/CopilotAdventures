@@ -49,7 +49,7 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
 ### Constraints:
 
 - Use GitHub Copilot and write the simulation in any language you'd like.
-- Focus on clear and concise code that handles the dance dynamics efficiently.
+- Focus on clear and concise code that handles the dance dynamics efficiently. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintainable?".
 - Creating a visual representation for the dance and effects is optional but encouraged if you have time.
 
 ### Summary of High-Level Steps to Perform:

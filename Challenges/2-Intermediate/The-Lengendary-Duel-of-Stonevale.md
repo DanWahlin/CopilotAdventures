@@ -49,7 +49,7 @@ Your task is to simulate the duel between Rok and Papyra. Each warrior makes a s
 ### Constraints:
 
 - Write the simulation using GitHub Copilot and any language you choose. Try learning a new language if you're up for the challenge!
-- Ensure efficient algorithms to handle the duel dynamics.
+- Ensure efficient algorithms to handle the duel dynamics. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintainable?".
 - Providing a graphical user interface for the simulation is optional.
 
 ### Summary of High-Level Steps to Perform:

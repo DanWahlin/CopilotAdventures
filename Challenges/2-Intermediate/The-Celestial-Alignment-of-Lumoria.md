@@ -34,9 +34,8 @@ The planets are already sorted in order of their distance from the Lumorian Sun.
 ### Constraints:
 
 - Use GitHub Copilot and write the simulation in any language you'd like.
-- Focus on clear and concise code that handles the dance dynamics efficiently.
+- Focus on clear and concise code that handles planet checks efficiently. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintainable?".
 - Creating a visual SVG representation for the planets is optional but encouraged if you have time.
-- Handle scenarios efficiently where a planet may be in the shadow of multiple planets.
 
 ### Summary of High-Level Steps to Perform:
 
