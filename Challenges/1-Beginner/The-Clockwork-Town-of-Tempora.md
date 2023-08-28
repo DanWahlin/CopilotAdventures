@@ -12,12 +12,12 @@ Your task is to create a system that checks all the clocks in the town and synch
 
 1. **Clock Data:**
     - The clock times are provided in a 24-hour format.
-    - Here are the times of the clocks in town:
+    - The Grand Clock Tower is at 15:00.
+    - Clock times around town:
         - Clock 1: 14:45
         - Clock 2: 15:05
         - Clock 3: 15:00
         - Clock 4: 14:40
-    - The Grand Clock Tower is at 15:00.
 
 2. **Time Analysis and Output:**
     - You need to determine how many minutes each clock is ahead or behind the Grand Clock Tower.
