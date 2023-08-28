@@ -16,6 +16,10 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 
 1. Once you're through your first challenge, try another one but this time, use a different language. You can also try a more advanced challenge if you're up for it!
 
+## Create a UI for Your Challenge
+
+1. Once you've completed a challenge, try creating a UI for it. Use pure HTML/CSS/JavaScript or a library/framework of your choosing.
+
 ## Submit Your Own Copilot Challenge
 
 Do you have a coding challenge story you'd like to submit? We'd love to see it! Please submit a pull request to this repository with your challenge and solution. Be sure to follow the challenge story template used with each story in the [Challenges](./Challenges) folder.
