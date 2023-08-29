@@ -1,6 +1,6 @@
 ## The Celestial Alignment of Lumoria
 
-<img src="../../Images/lumoria.png" />
+<img src="../../Images/lumoria.jpg" />
 
 ### Background:
 
