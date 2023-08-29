@@ -47,8 +47,13 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
 
 - Use GitHub Copilot and write the simulation in any language you'd like.
 - Ensure efficient algorithms to handle the battle dynamics. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintainable?".
+- The program should have 100% test coverge. Use the /tests command in GitHub Copilot Chat.
 
-### Summary of High-Level Steps to Perform:
+### Getting Started
+
+- Ensure that you have both the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) extensions installed and are signed in to GitHub in VS Code.
+
+#### Summary of High-Level Steps to Perform:
 
 1. **Define Constants and Data Structures**:
    - Define the `creatures` array containing the creature details.
@@ -79,3 +84,5 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
 
 6. **Return Final Scores**:
    - After all moves have been simulated, return the final scores for each creature. 
+
+
