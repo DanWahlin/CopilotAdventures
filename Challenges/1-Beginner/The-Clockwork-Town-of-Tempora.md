@@ -28,7 +28,7 @@ Your task is to create a system that checks all the clocks in the town and synch
 ### Constraints:
 
 - Use GitHub Copilot and write the simulation in any language you'd like.
-- Focus on clear and concise code. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintinable?".
+- Focus on clear and concise code. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintainable?".
 - Creating a visual representation for the clocks is optional but encouraged if you have time.
 
 ### Summary of High-Level Steps to Perform:
