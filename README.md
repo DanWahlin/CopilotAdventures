@@ -22,7 +22,7 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 ## Next Step: Create a UI for Your Challenge
 
 1. Once you've completed a challenge, try creating a UI for it. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. Let GitHub Copilot/Chat help you out with the UI code.
-1. If you're UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
+1. If your UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
 
 ## Submit Your Own Copilot Challenge
 
