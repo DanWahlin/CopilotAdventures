@@ -13,7 +13,7 @@ To get started, ensure that you have both the [GitHub Copilot](https://marketpla
     - Clone the repository to your local machine and open it in your favorite editor.
 1. Choose a challenge from the [Challenges](./Challenges) folder. You'll find challenges for different skill levels.
 1. Read the challenge description and the high-level steps to perform.
-1. Use [GitHub Copilot](https://github.com/features/copilot) to help you write the code for the challenge. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
+1. Use [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and/or [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) to help you write the code for the challenge. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
 1. Once you've completed the challenge, submit a pull request to this repository with your solution to get your badge. Be sure to include the `challenge title` in your pull request description as well as your code file(s). Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
 1. If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear from you!
 
