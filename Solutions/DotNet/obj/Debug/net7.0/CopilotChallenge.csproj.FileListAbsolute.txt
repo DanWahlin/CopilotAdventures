@@ -1,0 +1,15 @@
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/bin/Debug/net7.0/CopilotChallenge
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/bin/Debug/net7.0/CopilotChallenge.deps.json
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/bin/Debug/net7.0/CopilotChallenge.runtimeconfig.json
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/bin/Debug/net7.0/CopilotChallenge.dll
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/bin/Debug/net7.0/CopilotChallenge.pdb
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.csproj.AssemblyReference.cache
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.AssemblyInfoInputs.cache
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.AssemblyInfo.cs
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.csproj.CoreCompileInputs.cache
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.dll
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/refint/CopilotChallenge.dll
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.pdb
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/CopilotChallenge.genruntimeconfig.cache
+/Users/danwahlin/Desktop/demos/CopilotChallenge/Solutions/DotNet/obj/Debug/net7.0/ref/CopilotChallenge.dll
