@@ -4,6 +4,8 @@
 
 Welcome to the Copilot Challenge! This challenge is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code.
 
+To get started, ensure that you have both the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) extensions installed and are signed in to GitHub in VS Code. We have a GitHub Codespace setup to help you get started quickly.
+
 ## Choose Your Own Copilot Adventure
 
 1. Select one of the following options to get the Copilot Challenge repository up and running:
