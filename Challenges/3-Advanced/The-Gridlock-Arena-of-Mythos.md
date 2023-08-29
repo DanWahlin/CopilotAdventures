@@ -1,5 +1,7 @@
 ## The Gridlock Arena of Mythos
 
+<img src="../../Images/mythos-arena.png" width="350" height="350" />
+
 ### Background:
 
 In the mystical land of Mythos, creatures from various realms come together to battle in the Gridlock Arena, a chess-like grid where strategy, power, and cunning are tested. Each creature has its unique move, power, and strategy.
