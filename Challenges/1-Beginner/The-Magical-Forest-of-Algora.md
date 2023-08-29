@@ -1,6 +1,6 @@
 ## The Magical Forest of Algora
 
-<img src="../../Images/algora-forest.png" width="350" height="350" />
+<img src="../../Images/algora-forest.png" width="400" height="400" />
 
 ### Background:
 
