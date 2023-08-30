@@ -19,7 +19,7 @@ To get started, ensure that you have both the [GitHub Copilot](https://marketpla
 
 ## Step 2: Learn a New Language
 
-Once you're through your first challenge, try it again but this time use GitHub Copilot to learn a new language. For example, if you normally write code using C#, trying using Copilot to help you solve a challenge using Python.
+Once you've completed your first challenge, try it again but this time use GitHub Copilot to complete the challenge using a language that's new to you. For example, if you normally write code in C#, use Copilot to help you solve the challenge using Python or another language you'd like to learn more about.
 
 ## Step 3: Create a UI for Your Challenge
 
