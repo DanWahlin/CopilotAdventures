@@ -54,7 +54,7 @@ class BattleSimulator
         _creatures = creatures;
     }
 
-    public Dictionary<string, int> Simulate()
+    public Dictionary<string, int> Battle()
     {
         var grid = new string?[GridSize, GridSize];
         var scores = _creatures.ToDictionary(creature => creature.Name, creature => 0);
@@ -131,7 +131,7 @@ public class Mythos
         };
 
         var simulator = new BattleSimulator(creatures);
-        var scores = simulator.Simulate();
+        var scores = simulator.Battle();
         foreach (var score in scores)
         {
             Console.WriteLine($"{score.Key}: {score.Value}");
