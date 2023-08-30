@@ -21,6 +21,8 @@ To get started, ensure that you have both the [GitHub Copilot](https://marketpla
 
 ## Next Steps: Learn a New Language or Create a UI for Your Challenge
 
+<img src="./Images/learn-more.jpg" />
+
 Once you've completed your first challenge, try it again but this time use GitHub Copilot to complete the challenge using a language that's new to you. For example, if you normally write code in C#, use Copilot to help you solve the challenge using Python or another language you'd like to learn more about.
 
 Try creating a UI for your challenge. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. Let GitHub Copilot/Chat help you out with the UI code. If your UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
