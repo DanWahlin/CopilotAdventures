@@ -8,6 +8,8 @@ To get started, ensure that you have both the [GitHub Copilot](https://marketpla
 
 ## Choose Your Own Copilot Adventure
 
+<img src="./Images/choose-own-adventure.jpg" />
+
 1. Select one of the following options to get the Copilot Challenge repository up and running:
     - Select the green **Code** button followed by **Codespaces**. Select **Create codespace on main**.
     - Clone the repository to your local machine and open it in your favorite editor.
