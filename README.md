@@ -6,7 +6,7 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 
 To get started, ensure that you have both the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) extensions installed and are signed in to GitHub in VS Code. We have a GitHub Codespace setup to help you get started quickly.
 
-## Choose Your Own Copilot Adventure
+## Step 1: Choose Your Own Copilot Adventure
 
 1. Select one of the following options to get the Copilot Challenge repository up and running:
     - Select the green **Code** button followed by **Codespaces**. Select **Create codespace on main**.
@@ -17,11 +17,11 @@ To get started, ensure that you have both the [GitHub Copilot](https://marketpla
 1. Once you've completed the challenge, submit a pull request to this repository with your solution. Be sure to include the `challenge title` in your pull request description as well as your code file(s). Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
 1. If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear from you!
 
-## Next Step: Learn a New Language
+## Step 2: Learn a New Language
 
-Once you're through your first challenge, try it again but this time use a different language.
+Once you're through your first challenge, try it again but this time use GitHub Copilot to learn a new language. For example, if you normally write code using C#, trying using Copilot to help you solve a challenge using Python.
 
-## Next Step: Create a UI for Your Challenge
+## Step 3: Create a UI for Your Challenge
 
 1. Once you've completed a challenge, try creating a UI for it. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. Let GitHub Copilot/Chat help you out with the UI code.
 1. If your UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
