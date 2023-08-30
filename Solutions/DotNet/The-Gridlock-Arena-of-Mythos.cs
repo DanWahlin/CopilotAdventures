@@ -1,12 +1,20 @@
+record Position(int X, int Y)
+{
+    public Position MoveBy(int dx, int dy, int gridSize)
+    {
+        return new Position(Math.Clamp(X + dx, 0, gridSize - 1), Math.Clamp(Y + dy, 0, gridSize - 1));
+    }
+}
+
 class Creature
 {
-    public string Name { get; set; }
-    public (int, int) Start { get; set; }
-    public Direction[] Moves { get; set; }
+    public string Name { get; }
+    public Position Start { get; set; }
+    public Direction[] Moves { get; }
     public int Power { get; set; }
-    public string Icon { get; set; }
+    public string Icon { get; }
 
-    public Creature(string name, (int, int) start, Direction[] moves, int power, string icon)
+    public Creature(string name, Position start, Direction[] moves, int power, string icon)
     {
         Name = name;
         Start = start;
@@ -15,7 +23,6 @@ class Creature
         Icon = icon;
     }
 }
-
 
 enum Direction
 {
@@ -30,6 +37,7 @@ class BattleSimulator
     private const int GridSize = 5;
     private const string OverlapIcon = "🤺";
     private const string EmptyCellIcon = "⬜";
+    private const int InitialMove = -1;
 
     private static readonly Dictionary<Direction, (int, int)> Directions = new()
     {
@@ -53,40 +61,36 @@ class BattleSimulator
 
         foreach (var creature in _creatures)
         {
-            grid[creature.Start.Item1, creature.Start.Item2] = creature.Icon;
+            grid[creature.Start.X, creature.Start.Y] = creature.Icon;
         }
 
-        var maxMoves = _creatures[0].Moves.Length;
-        for (int move = -1; move < maxMoves; move++)
+        var maxMoves = _creatures.Max(creature => creature.Moves.Length);
+        for (int move = InitialMove; move < maxMoves; move++)
         {
             RenderGrid(move, grid, scores);
             if (move == maxMoves - 1) break;
 
             foreach (var creature in _creatures)
             {
-                var (x, y) = creature.Start;
-                if (move < creature.Moves.Length)
+                var position = creature.Start;
+                if (move < creature.Moves.Length && move >= 0)
                 {
-                    if (move >= 0)
-                    {
-                        (int dx, int dy) = Directions[creature.Moves[move]];
-                        x = Math.Clamp(x + dx, 0, GridSize - 1);
-                        y = Math.Clamp(y + dy, 0, GridSize - 1);
-                    }
+                    var (dx, dy) = Directions[creature.Moves[move]];
+                    position = position.MoveBy(dx, dy, GridSize);
                 }
 
-                var overlappingCreature = _creatures.FirstOrDefault(c => c.Start == (x, y) && c.Name != creature.Name);
+                var overlappingCreature = _creatures.FirstOrDefault(c => c.Start == position && c.Name != creature.Name);
                 if (overlappingCreature != null)
                 {
                     scores[overlappingCreature.Name] -= creature.Power;
                     scores[creature.Name] += creature.Power;
-                    grid[x, y] = OverlapIcon;
+                    grid[position.X, position.Y] = OverlapIcon;
                 }
                 else
                 {
-                    grid[creature.Start.Item1, creature.Start.Item2] = null;
-                    creature.Start = (x, y);
-                    grid[x, y] = creature.Icon;
+                    grid[creature.Start.X, creature.Start.Y] = null;
+                    creature.Start = position;
+                    grid[position.X, position.Y] = creature.Icon;
                 }
             }
         }
@@ -96,13 +100,13 @@ class BattleSimulator
 
     private static void RenderGrid(int move, string?[,] grid, Dictionary<string, int> scores)
     {
-        var moveText = move == -1 ? "Initial Board" : $"Move {move + 1}";
+        var moveText = move == InitialMove ? "Initial Board" : $"Move {move + 1}";
         Console.WriteLine(moveText);
         for (int i = 0; i < GridSize; i++)
         {
             for (int j = 0; j < GridSize; j++)
             {
-                Console.Write($"{grid![i, j] ?? EmptyCellIcon} ");
+                Console.Write($"{grid[i, j] ?? EmptyCellIcon} ");
             }
             Console.WriteLine();
         }
@@ -121,9 +125,9 @@ public class Mythos
     {
         var creatures = new List<Creature>
         {
-            new Creature("Dragon", (2, 2), new[] {Direction.Right, Direction.Left, Direction.Down}, 7, "🐉"),
-            new Creature("Goblin", (2, 3), new[] {Direction.Left, Direction.Right, Direction.Up}, 3, "👺"),
-            new Creature("Ogre", (0, 0), new[] {Direction.Right, Direction.Down, Direction.Down}, 5, "👹")
+            new Creature("Dragon", new Position(2, 2), new[] {Direction.Right, Direction.Left, Direction.Down}, 7, "🐉"),
+            new Creature("Goblin", new Position(2, 3), new[] {Direction.Left, Direction.Right, Direction.Up}, 3, "👺"),
+            new Creature("Ogre", new Position(0, 0), new[] {Direction.Right, Direction.Down, Direction.Down}, 5, "👹")
         };
 
         var simulator = new BattleSimulator(creatures);
