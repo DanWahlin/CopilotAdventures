@@ -3,7 +3,7 @@ public class Algora
 
     static string danceEffect(string loxMove, string drakoMove, Dictionary<string, string> effects)
     {
-        return effects.TryGetValue($"{loxMove}{drakoMove}", out string effect) ? effect : "A mysterious effect takes place.";
+        return effects.TryGetValue($"{loxMove}{drakoMove}", out string? effect) ? effect : "A mysterious effect takes place.";
     }
 
     static IEnumerable<string> simulateDance(string[] loxMoves, string[] drakoMoves, Dictionary<string, string> effects)

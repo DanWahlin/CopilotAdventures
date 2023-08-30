@@ -16,6 +16,15 @@ public class Program
             case "algora":
                 Algora.Run();
                 break;
+            case "stonevale":
+                StoneVale.Run();
+                break;
+            case "tempora":
+                Tempora.Run();
+                break;
+            case "mythos":
+                Mythos.Run();
+                break;
             default:
                 Console.WriteLine($"Unknown option: {args[0]}");
                 break;
