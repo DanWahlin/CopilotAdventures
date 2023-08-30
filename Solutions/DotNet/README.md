@@ -3,11 +3,11 @@
 To run these samples you can use:
 
 ```bash
-# Sample names include: lumoria, algora, stonevale, tempora
 dotnet run [sample name]
+# Sample names include: lumoria, algora, stonevale, temporal, mythos
 ```
 
-For example:
+For example, to run the Lumoria challenge sample you would use:
 
 ```bash
 dotnet run lumoria
