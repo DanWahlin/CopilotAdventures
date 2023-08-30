@@ -17,14 +17,11 @@ To get started, ensure that you have both the [GitHub Copilot](https://marketpla
 1. Once you've completed the challenge, submit a pull request to this repository with your solution. Be sure to include the `challenge title` in your pull request description as well as your code file(s). Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
 1. If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear from you!
 
-## Step 2: Learn a New Language
+## Next Steps: Learn a New Language or Create a UI for Your Challenge
 
 Once you've completed your first challenge, try it again but this time use GitHub Copilot to complete the challenge using a language that's new to you. For example, if you normally write code in C#, use Copilot to help you solve the challenge using Python or another language you'd like to learn more about.
 
-## Step 3: Create a UI for Your Challenge
-
-1. Once you've completed a challenge, try creating a UI for it. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. Let GitHub Copilot/Chat help you out with the UI code.
-1. If your UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
+Try creating a UI for your challenge. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. Let GitHub Copilot/Chat help you out with the UI code. If your UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
 
 ## Submit Your Own Copilot Challenge
 
