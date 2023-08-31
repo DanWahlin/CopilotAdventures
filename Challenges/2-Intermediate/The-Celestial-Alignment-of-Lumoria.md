@@ -24,12 +24,13 @@ Your task is to calculate the intensity of light each planet receives during thi
 The planets are already sorted in order of their distance from the Lumorian Sun.
 
 2. **Light Dynamics:**
-- If a smaller planet is behind a larger planet (relative to the Lumorian Sun), it will be in the shadow and will receive no light.
-- If a planet is in the shadow of multiple planets, it will be marked as 'None (Multiple Shadows)'.
+- If a smaller planet is behind a larger planet (relative to the Lumorian Sun), it will be in the shadow and will receive no light (`None`).
+- If a larger planet is behind a smaller planet (relative to the Lumorian Sun), it will have `Partial` light.
+- If a planet is in the shadow of multiple planets, it will be marked as `None (Multiple Shadows)`.
 - If two planets are of similar size and are near each other in alignment, they might partially eclipse each other, but for simplicity, you can consider them both to receive full light.
 
 3. **Output:**
-    - Your system should output a list of planets and the light intensity they receive: Full, Partial, None, or None (Multiple Shadows).
+    - Your system should output a list of planets and the light intensity they receive: `Full`, `Partial`, `None`, or `None (Multiple Shadows)`.
 
 ### Constraints:
 
@@ -41,5 +42,5 @@ The planets are already sorted in order of their distance from the Lumorian Sun.
 
 1. Sort the list of planets based on their distance from the Lumorian Sun.
 1. Traverse the sorted list of planets.
-1. For each planet, check the planets that are closer to the Lumorian Sun to see if they cast a shadow on it.
+1. For each planet, check the planets that are closer to the Lumorian Sun to see if they cast a shadow on other planets.
 1. Output the light intensity each planet receives.

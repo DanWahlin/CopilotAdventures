@@ -5,58 +5,49 @@ public class Planet
     public double Size { get; set; }
 }
 
-public class IntensityResult
-{
-    public string Planet { get; set; } = string.Empty;
-    public string LightIntensity { get; set; } = string.Empty;
-}
-
 public class Lumoria
 {
-    public static List<IntensityResult> CalculateLightIntensity(List<Planet> planets)
+    public static int GetShadowCount(List<Planet> planets, int currentIndex)
     {
-        var sortedPlanets = planets.OrderBy(p => p.Distance).ToList();
-        var results = new List<IntensityResult>();
-        int largerPlanetsCount = 0;
+        return planets.Take(currentIndex)
+                      .Count(planet => planet.Size > planets[currentIndex].Size);
+    }
 
-        for (int i = 0; i < sortedPlanets.Count; i++)
+    public static string GetLightIntensity(int i, int shadowCount)
+    {
+        if (i == 0) return "Full";
+        if (shadowCount == 1) return "None";
+        if (shadowCount > 1) return "None (Multiple Shadows)";
+        return "Partial";
+    }
+
+    public static List<(string Name, string Light)> CalculateLightIntensity(List<Planet> planets)
+    {
+        return planets.Select((planet, i) =>
         {
-            if (i > 0 && sortedPlanets[i - 1].Size >= sortedPlanets[i].Size)
-            {
-                largerPlanetsCount++;
-            }
-
-            string intensity = largerPlanetsCount switch
-            {
-                0 => "Full",
-                1 => "None",
-                _ => "None (Multiple Shadows)"
-            };
-
-            results.Add(new IntensityResult
-            {
-                Planet = sortedPlanets[i].Name,
-                LightIntensity = intensity
-            });
-        }
-
-        return results;
+            var shadowCount = GetShadowCount(planets, i);
+            var lightIntensity = GetLightIntensity(i, shadowCount);
+            return (Name: planet.Name, Light: lightIntensity);
+        }).ToList();
     }
 
     public static void Run()
     {
-        var planets = new List<Planet>
+        var lumoriaPlanets = new List<Planet>
         {
-            new Planet { Name = "Earthia", Distance = 1, Size = 12742 },
             new Planet { Name = "Mercuria", Distance = 0.4, Size = 4879 },
-            new Planet { Name = "Marsia", Distance = 1.5, Size = 6779 },
-            new Planet { Name = "Venusia", Distance = 0.7, Size = 12104 }
+            new Planet { Name = "Venusia", Distance = 0.7, Size = 12104 },
+            new Planet { Name = "Earthia", Distance = 1, Size = 12742 },
+            new Planet { Name = "Marsia", Distance = 1.5, Size = 6779 }
         };
 
-        var results = CalculateLightIntensity(planets);
-        foreach (var result in results)
+        var sortedPlanets = lumoriaPlanets.OrderBy(p => p.Distance).ToList();
+        var lightIntensities = CalculateLightIntensity(sortedPlanets);
+
+        foreach (var item in lightIntensities)
         {
-            Console.WriteLine($"Planet: {result.Planet}, Light Intensity: {result.LightIntensity}");
+            Console.WriteLine($"Planet: {item.Name}, Light: {item.Light}");
         }
+
     }
 }
