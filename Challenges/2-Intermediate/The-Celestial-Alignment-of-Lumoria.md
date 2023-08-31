@@ -21,7 +21,7 @@ Your task is to calculate the intensity of light each planet receives during thi
 | Earthia     | 1             | 12742    |
 | Marsia      | 1.5           | 6779     |
 
-The planets are already sorted in order of their distance from the Lumorian Sun.
+The planets are already sorted in order of their distance from the Lumorian Sun, but you'll want to ensure that your code performs a sort in case the data changes in the future.
 
 2. **Light Dynamics:**
 - If a smaller planet is behind a larger planet (relative to the Lumorian Sun), it will be in the shadow and will receive no light (`None`).
