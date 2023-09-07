@@ -8,7 +8,6 @@ To get started, ensure that you have both the [GitHub Copilot](https://marketpla
 
 If you're new to GitHub Copilot, check out this video to get started and understand the benefits it can bring to your development workflow.
     
-[![GitHub Copilot Video](./Images/copilot-video.jpg)](https://www.youtube.com/watch?v=4Y7jVO0ZB6c)
 
 ## Choose Your Own Copilot Adventure
 
