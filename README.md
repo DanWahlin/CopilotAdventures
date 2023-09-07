@@ -6,6 +6,10 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 
 To get started, ensure that you have both the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) extensions installed and are signed in to GitHub in VS Code. We have a GitHub Codespace setup to help you get started quickly.
 
+If you're new to GitHub Copilot, check out this video to get started and understand the benefits it can bring to your development workflow.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dlt-DCLHnxM?si=Nv3wchf-bEdeYuyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Choose Your Own Copilot Adventure
 
 <img src="./Images/choose-own-adventure.jpg" />
