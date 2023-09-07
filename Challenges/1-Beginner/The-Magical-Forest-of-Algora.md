@@ -2,15 +2,15 @@
 
 <img src="../../Images/algora-forest.jpg" />
 
-### Background:
+### Background
 
 Deep within the enchanted Forest of Algora, two mystical creatures, the Lox and the Faelis, perform a sacred dance every millennium. This dance is not just for celebration but is a ritual to bring balance to the forest.
 
-### Objective:
+### Objective
 
 Your task is to simulate the dance between Lox and Faelis. Each creature has its own set of dance moves, and the combination of moves creates various magical effects in the forest. Your goal is to determine the state of the forest after the dance is complete.
 
-### Specifications:
+### Specifications
 
 1. **Dance Moves and Effects:**
     - Each creature can perform one of three dance moves: `Twirl`, `Leap`, or `Spin`.
@@ -46,13 +46,13 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
     - Implement a system that allows users to add new dance moves and effects.
     - Users can select the dance move for each sequence.
 
-### Constraints:
+### Constraints
 
 - Use GitHub Copilot and write the simulation in any language you'd like.
 - Focus on clear and concise code that handles the dance dynamics efficiently. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintainable?".
 - Creating a visual representation for the dance and effects is optional but encouraged if you have time.
 
-### Summary of High-Level Steps to Perform:
+### Summary of High-Level Steps to Perform
 
 1. Initialize the state of the forest.
 2. Each creature selects a dance move for each sequence.

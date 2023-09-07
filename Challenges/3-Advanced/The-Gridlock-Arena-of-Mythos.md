@@ -2,15 +2,15 @@
 
 <img src="../../Images/mythos-arena-full.jpg" />
 
-### Background:
+### Background
 
 In the mystical land of Mythos, creatures from various realms come together to battle in the Gridlock Arena, a chess-like grid where strategy, power, and cunning are tested. Each creature has its unique move, power, and strategy.
 
-### Objective:
+### Objective
 
 Your task is to simulate a battle in the Gridlock Arena. Each creature will make a series of moves, and after each move, the creature might inflict damage on its opponent if they land on the same square. The goal is to accumulate the highest score by the end of the battle. To track the progress of the battle, visualize the grid after each move and display the current scores right below the grid.
 
-### Specifications:
+### Specifications
 
 1. **Grid Dynamics:**
     - The Gridlock Arena is a 5x5 grid.
@@ -43,7 +43,7 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
 
         <img src="../../Images/mythos-board-example.png">
 
-### Constraints:
+### Constraints
 
 - Use GitHub Copilot and write the simulation in any language you'd like.
 - Ensure efficient algorithms to handle the battle dynamics. Ask GitHub Copilot/Chat, "How can I make this code more readable and maintainable?".
@@ -53,7 +53,7 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
 
 - Ensure that you have both the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) extensions installed and are signed in to GitHub in VS Code.
 
-#### Summary of High-Level Steps to Perform:
+#### Summary of High-Level Steps to Perform
 
 1. **Define Constants and Data Structures**:
    - Define the `creatures` array containing the creature details.
