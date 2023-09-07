@@ -10,20 +10,23 @@ public class Program
 
         switch (args[0].ToLower())
         {
+            case "algora":
+                Algora.Run();
+                break;
+            case "eldoria":
+                Eldoria.Run();
+                break;
             case "lumoria":
                 Lumoria.Run();
                 break;
-            case "algora":
-                Algora.Run();
+            case "mythos":
+                Mythos.Run();
                 break;
             case "stonevale":
                 StoneVale.Run();
                 break;
             case "tempora":
                 Tempora.Run();
-                break;
-            case "mythos":
-                Mythos.Run();
                 break;
             default:
                 Console.WriteLine($"Unknown option: {args[0]}");
