@@ -19,7 +19,7 @@ To get started, walk through our [warmup challenge](./Challenges/StartHere.md) t
         - [The Clockwork Town of Tempora](./Challenges/1-Beginner/The-Clockwork-Town-of-Tempora.md)
         - [The Magical Forest of Algora](./Challenges/1-Beginner/The-Magical-Forest-of-Algora.md)
     - Intermediate Challenges
-        - [The Celestia Alignment of Lumoria](./Challenges/2-Intermediate/The-Celestia-Alignment-of-Lumoria.md)
+        - [The Celestia Alignment of Lumoria](./Challenges/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
         - [The Legendary Duel of Stonevale](./Challenges/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
         - [The Scrolls of Eldoria](./Challenges/2-Intermediate/The-Scrolls-of-Eldoria.md)
     - Advanced 
