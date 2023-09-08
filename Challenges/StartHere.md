@@ -26,7 +26,7 @@ Follow the steps below to install the GitHub Copilot extension in VS Code.
 
 1. If you don't currently have a GitHub Copilot license, you can [get a free trial](https://github.com/login?return_to=%2fgithub-copilot%2fsignup).
 
-Now...let's get started!
+Let's get started with your first challenge!
 
 ## Your First Challenge: The Chamber of Echoes
 
