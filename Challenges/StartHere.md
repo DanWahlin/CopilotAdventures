@@ -74,9 +74,9 @@ The next number echoed by the room should be: 15
 
 This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to use another language/framework if you'd like.
 
-1. Create a file named `echo-chamber.js` in a folder.
+1. Create a file named `echo-chamber.js` in a folder of your choosing.
 
-1. Add a `const` named `echoes` to hold the numeric sequence:
+1. Add a `const` named `echoes` to hold the numeric sequence into the file:
 
 ```js
 const echoes = [3, 6, 9, 12];
@@ -98,13 +98,13 @@ function predictNext(echoes) {
 } 
 ```
 
-1. Press <kbd>Enter</kbd> after the function and Copilot should suggest code similar to the following:
+1. Press <kbd>Enter</kbd> after the function and Copilot should suggest code similar to the following. If it doesn't, begin typing `console.log` and Copilot should suggest the code. To accept the suggestion, press <kbd>Tab</kbd>.
 
 ```js
 console.log(predictNext(echoes));
 ```
 
-1. Open a terminal window where the `echo-chamber.js` file is located.
+1. Open a terminal window in the folder where you created the `echo-chamber.js` file.
 
 1. Run the following command to execute the code:
 
@@ -112,7 +112,7 @@ console.log(predictNext(echoes));
 node echo-chamber.js
 ```
 
-1. You should see `15` printed to the console. This is the next number in the sequence. 
+1. You should see `15` printed to the console which is the next number in the sequence. 
 
 ## Echo Castle's Hidden Treasure is Now Yours!
 
