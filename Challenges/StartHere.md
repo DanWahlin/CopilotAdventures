@@ -61,19 +61,18 @@ The next number echoed by the room should be: 15
 
 ### Constraints:
 
-- Use GitHub Copilot and write the simulation in any language you'd like.
-- The solution should be efficient and concise.
+- The following solution uses JavaScript and Node.js, but you can use Copilot to write the code in another language if you'd like. 
 
 ### Summary of High-Level Steps to Perform:
 
-1. Create a variable to hold the provided sequence provided.
+1. Create a constant to hold the provided number sequence.
 2. Determine the common difference between consecutive numbers.
 3. Predict the next number in the sequence using the identified pattern.
 
 
 ### Solution:
 
-This solution uses JavaScript and requires [Node.js](https://nodejs.org) to be installed on your machine. However, feel free to use any language/framework you'd like.
+This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to use another language/framework if you'd like.
 
 1. Create a file named `echo-chamber.js` in a folder.
 
@@ -87,7 +86,6 @@ const echoes = [3, 6, 9, 12];
 
 ```js
 function predictNext(echoes) {
-
 ```
 
 1. To accept the suggestion, press <kbd>Tab</kbd>. GitHub Copilot should generate a function body similar to the following (note that you may see a different suggestion).
@@ -100,13 +98,13 @@ function predictNext(echoes) {
 } 
 ```
 
-1. Press <kbd>Enter</kbd> and Copilot should suggest code similar to the following:
+1. Press <kbd>Enter</kbd> after the function and Copilot should suggest code similar to the following:
 
 ```js
 console.log(predictNext(echoes));
 ```
 
-1. Save `echo-chamber.js` and open a terminal window in the folder where the file is located.
+1. Open a terminal window where the `echo-chamber.js` file is located.
 
 1. Run the following command to execute the code:
 
