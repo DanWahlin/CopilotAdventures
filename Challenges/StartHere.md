@@ -74,7 +74,7 @@ The next number echoed by the room should be: 15
 3. Predict the next number in the sequence using the identified pattern.
 
 
-### Step-by-Step Solution
+### GitHub Copilot Steps
 
 This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to use another language/framework if you'd like.
 
