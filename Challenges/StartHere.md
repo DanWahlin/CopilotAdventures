@@ -12,6 +12,10 @@ GitHub Copilot is an AI pair programmer that helps you write better code. In thi
 - Explain code you're working on.
 - And more!
 
+If you're brand new to GitHub Copilot check out this video to learn more about the benefits it can bring to your development workflow. Once you've watched the video, come back here and choose a challenge to get started.
+    
+[![GitHub Copilot Video](./Images/copilot-video.png)](https://www.youtube.com/watch?v=Dlt-DCLHnxM)
+
 ## Getting Started: Installing the GitHub Copilot Extension
 
 Follow the steps below to install the GitHub Copilot extension in VS Code.
