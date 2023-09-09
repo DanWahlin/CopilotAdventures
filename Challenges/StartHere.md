@@ -82,41 +82,77 @@ This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to us
 
 1. Add a `const` named `echoes` to hold the numeric sequence into the file:
 
-```js
-const echoes = [3, 6, 9, 12];
-```
+    ```js
+    const echoes = [3, 6, 9, 12];
+    ```
 
-1. Type the following code after the `echoes` variable. Copilot should suggest code to help you determine the difference between consecutive numbers in the sequence.
+1. Type the following code after the `echoes` constant. Copilot should suggest code to help you determine the difference between consecutive numbers in the sequence.
 
-```js
-function predictNext(echoes) {
-```
+    ```js
+    function predictNext(echoes) {
+    ```
 
-1. To accept the suggestion, press <kbd>Tab</kbd>. GitHub Copilot should generate a function body similar to the following (note that you may see a different suggestion).
+1. To accept the suggestion, press <kbd>Tab</kbd>. The following function body should be added. Note that you may see a different code suggestion.
 
-```js
-function predictNext(echoes) {
-    let difference = echoes[1] - echoes[0];
-    let next = echoes[echoes.length - 1] + difference;
-    return next;
-} 
-```
+    ```js
+    function predictNext(echoes) {
+        let difference = echoes[1] - echoes[0];
+        let next = echoes[echoes.length - 1] + difference;
+        return next;
+    } 
+    ```
 
-1. Press <kbd>Enter</kbd> after the function and Copilot should suggest code similar to the following. If it doesn't, begin typing `console.log` and Copilot should suggest the code. To accept the suggestion, press <kbd>Tab</kbd>.
+1. Enter a new line after the function and Copilot should suggest code similar to the following. If it doesn't, begin typing `console.log`. To accept the suggestion, press <kbd>Tab</kbd>.
 
-```js
-console.log(predictNext(echoes));
-```
+    ```js
+    console.log(predictNext(echoes));
+    ```
 
-1. Open a terminal window in the folder where you created the `echo-chamber.js` file.
+1. Add the following comment immediately above the `predictNext` function and press <kbd>Enter</kbd>. 
 
-1. Run the following command to execute the code:
+    ```js
+    // Document what this code is doing
+    ```
 
-```bash
-node echo-chamber.js
-```
+1. Accept the suggestion to add a comment. Copilot should generate a comment similar to the following:
+
+    ```js
+    // This code is predicting the next number in the sequence by  
+    // finding the difference between the first two numbers and 
+    // adding that difference to the last number in the sequence.
+    ```
+
+    **NOTE:** In addition to generating documentation, you can also use comments to generate code.
+
+1. Now let's assume that you want to store the "memories" of the previous numbers echoed by the room. Add the following code after the `echoes` variable.
+
+    ```js
+    const memories = [];
+    ```
+
+1. Add the following comment immediately **above** the `return next` statement in the `predictNext` function and press <kbd>Enter</kbd>. Accept the suggestion by pressing <kbd>Tab</kbd>.
+
+    ```js
+    // Store the full sequence including the predicted number in memories
+    ```
+
+1. You should see code similar to the following generated:
+
+    ```js
+    memories.push(...echoes, next);
+    ```
+
+1. Save `echo-chamber.js` and open a terminal window in the folder where you created the file.
+
+1. Run the following command to execute the code. This assumes you have [Node.js](https://nodejs.org) installed.
+
+    ```bash
+    node echo-chamber.js
+    ```
 
 1. You should see `15` printed to the console which is the next number in the sequence. 
+
+1. See if you can get Copilot to output the memories to the console for you by adding a comment.
 
 ## Echo Castle's Hidden Treasure is Now Yours!
 
