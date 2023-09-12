@@ -27,8 +27,12 @@ Select one of the following options to get the Copilot Challenge repository up a
 **Option 2: Fork and Clone the Repository**
 
 - Select the **Fork** button at the top of the page to fork the repository to your GitHub account.
-- Go to the repository in your GitHub account.
-- Clone the repository to your local machine and open it in VS Code.
+- Clone the repository to your local machine and open it in VS Code:
+
+    ```bash
+        # Run the following command in your terminal
+        git clone <YOUR_REPOSITORY_URL>
+    ```
 
 ### 2. Choose a Copilot Challenge
 
