@@ -14,7 +14,7 @@ To get started, walk through our [warmup challenge](./Challenges/StartHere.md) t
 
 Select one of the following options to get the Copilot Challenge repository up and running:
 
-**Fork and Create a Codespace**
+**Option 1: Fork and Create a Codespace**
 
 - Select the **Fork** button at the top of the page to fork the repository to your GitHub account.
 - Once the repository is forked, select the **GitHub Codespaces** button (ensure you're doing this from your forked repository readme file):
@@ -24,7 +24,7 @@ Select one of the following options to get the Copilot Challenge repository up a
 - In the **Select a repository** dropdown, select your forked repository.
 - Select **Create codespace**.
 
-**Fork and Clone the Repository**
+**Option 2: Fork and Clone the Repository**
 
 - Select the **Fork** button at the top of the page to fork the repository to your GitHub account.
 - Go to the repository in your GitHub account.
