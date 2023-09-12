@@ -19,7 +19,7 @@ Select one of the following options to get the Copilot Challenge repository up a
 
     OR:
 
-- Clone the repository to your local machine and open it in your favorite editor.
+- Clone the repository to your local machine and open it in VS Code.
 
 ### 2. Choose a Copilot Challenge
 
