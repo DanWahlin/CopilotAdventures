@@ -10,24 +10,41 @@ To get started, walk through our [warmup challenge](./Challenges/StartHere.md) t
 
 <img src="./Images/choose-own-adventure.jpg" />
 
-1. Select one of the following options to get the Copilot Challenge repository up and running:
-    - Select the green **Code** button at the top of the page followed by **Codespaces**. Select **Create codespace on main**.
-    - Clone the repository to your local machine and open it in your favorite editor.
-1. Choose a challenge from the [Challenges](./Challenges) folder. You'll find challenges for different skill levels.
-    - [Warmup Challenge](./Challenges/StartHere.md) - Start here if you're new to GitHub Copilot.
-    - Beginner Challenges
-        - [The Clockwork Town of Tempora](./Challenges/1-Beginner/The-Clockwork-Town-of-Tempora.md)
-        - [The Magical Forest of Algora](./Challenges/1-Beginner/The-Magical-Forest-of-Algora.md)
-    - Intermediate Challenges
-        - [The Celestia Alignment of Lumoria](./Challenges/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
-        - [The Legendary Duel of Stonevale](./Challenges/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
-        - [The Scrolls of Eldoria](./Challenges/2-Intermediate/The-Scrolls-of-Eldoria.md)
-    - Advanced 
-        - [The Gridlock Arena of Mythos](./Challenges/3-Advanced/The-Gridlock-Arena-of-Mythos.md)
-1. Read the challenge description and the high-level steps to perform.
-1. Use [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and/or [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) to help you write the code for the challenge. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
-1. Once you've completed the challenge, submit a pull request to this repository with your solution. Be sure to include the `challenge title` in your pull request description as well as your code file(s). Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
-1. If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear from you!
+### 1. Setup Your Copilot Challenge Project
+
+Select one of the following options to get the Copilot Challenge repository up and running:
+
+- Select the **Fork** button at the top of the page to fork the repository to your GitHub account.
+- Select the green **Code** button at the top of the page followed by **Codespaces**. Select **Create codespace on main**.
+
+    OR:
+
+- Clone the repository to your local machine and open it in your favorite editor.
+
+### 2. Choose a Copilot Challenge
+
+- [Warmup Challenge](./Challenges/StartHere.md) - Start here if you're new to GitHub Copilot.
+- Beginner Challenges
+    - [The Clockwork Town of Tempora](./Challenges/1-Beginner/The-Clockwork-Town-of-Tempora.md)
+    - [The Magical Forest of Algora](./Challenges/1-Beginner/The-Magical-Forest-of-Algora.md)
+- Intermediate Challenges
+    - [The Celestia Alignment of Lumoria](./Challenges/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
+    - [The Legendary Duel of Stonevale](./Challenges/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
+    - [The Scrolls of Eldoria](./Challenges/2-Intermediate/The-Scrolls-of-Eldoria.md)
+- Advanced Challenges
+    - [The Gridlock Arena of Mythos](./Challenges/3-Advanced/The-Gridlock-Arena-of-Mythos.md)
+
+### 3. Start Coding
+
+Read Your Copilot Challenge description, the high-Level steps to perform, and the GitHub Copilot hints to use to help you write your code.
+
+- Use [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and/or [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) to help you write the code for the challenge. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
+
+### 4. Submit Your Challenge Solution
+
+- Once you've completed the challenge, submit a pull request to this repository with your solution. Be sure to include the `challenge title` in your pull request description as well as your code file(s). 
+- Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
+- If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear from you!
 
 ## Next Steps: Learn a New Language or Create a UI for Your Challenge
 
@@ -37,7 +54,7 @@ Once you've completed your first challenge, try it again but this time use GitHu
 
 Try creating a UI for your challenge. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. Let GitHub Copilot/Chat help you out with the UI code. If your UI requires images, consider using [Bing Image Creator](https://www.bing.com/create) or another AI image generation service.
 
-## Submit Your Own Copilot Challenge
+## Have a Copilot Challenge Idea? Submit a PR!
 
 Do you have a copilot challenge story/puzzle you'd like to submit for others to go through? We'd love to see it! Please submit a pull request to this repository with your challenge and solution. 
 
