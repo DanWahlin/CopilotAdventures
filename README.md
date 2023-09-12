@@ -14,11 +14,20 @@ To get started, walk through our [warmup challenge](./Challenges/StartHere.md) t
 
 Select one of the following options to get the Copilot Challenge repository up and running:
 
+**Fork and Create a Codespace**
+
 - Select the **Fork** button at the top of the page to fork the repository to your GitHub account.
-- Select the green **Code** button at the top of the page followed by **Codespaces**. Select **Create codespace on main**.
+- Once the repository is forked, select the **GitHub Codespaces** button (ensure you're doing this from your forked repository readme file):
 
-    OR:
+    [![Open in GitHub - Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2)
 
+- In the **Select a repository** dropdown, select your forked repository.
+- Select **Create codespace**.
+
+**Fork and Clone the Repository**
+
+- Select the **Fork** button at the top of the page to fork the repository to your GitHub account.
+- Go to the repository in your GitHub account.
 - Clone the repository to your local machine and open it in VS Code.
 
 ### 2. Choose a Copilot Challenge
