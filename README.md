@@ -36,7 +36,7 @@ Select one of the following options to get the Copilot Challenge repository up a
 
 ### 3. Start Coding
 
-Read Your Copilot Challenge description, the high-Level steps to perform, and the GitHub Copilot hints to use to help you write your code.
+Read Your Copilot Challenge description, the high-Level steps to perform, and the GitHub Copilot hints to help you write your code.
 
 - Use [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and/or [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) to help you write the code for the challenge. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
 
