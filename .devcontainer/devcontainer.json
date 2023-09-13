@@ -13,7 +13,8 @@
         "vscode": {
             "extensions": [
                 "github.copilot",
-                "gitHub.copilot-chat"
+                "gitHub.copilot-chat",
+                "gitHub.vscode-pull-request-github"
             ]
         }
     },
