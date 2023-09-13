@@ -8,9 +8,9 @@ To get started, walk through our [warmup challenge](./Challenges/StartHere.md) t
 
 ## Choose Your Own Copilot Adventure
 
-<a href="">
-    <img src="./Images/choose-own-adventure.jpg" onclick="return false;" />
-</a>
+<picture>
+    <img src="./Images/choose-own-adventure.jpg" />
+</picture>
 
 ### 1. Enter the Challenge Arena
 
