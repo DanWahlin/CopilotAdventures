@@ -8,15 +8,15 @@ In a galaxy far, far away, civilizations have advanced to the point where inters
 
 The Starborn civilizations are connected by a vast digital network known as the "Interstellar Network". The primary purpose of this network is to maintain records of each Starborn and their roles in the interstellar community.
 
-As planets and stars have their own orbits and hierarchies, so do the Starborn. Each Starborn has a direct superior they report to, and this chain goes up to the Nebula Nomarch, the leader of the entire Starborn civilization.
+As planets and stars have their own orbits and hierarchies, so do the Starborn. Each Starborn has a direct superior they report to, and this chain goes up to the Cosmic Overlord, the leader of the entire Starborn civilization.
 
 ### Objective
 
 You are a newly appointed Systems Keeper on the planet Azurea. Your first task is to access the Interstellar Network tenant and perform the following tasks:
 
-1. Create an Interstellar Network tenant if you don't have one already by [visiting their website](https://developer.microsoft.com/microsoft-365/dev-program) and joining the program.
+1. Create an Interstellar Network tenant (if you don't have one already) by [visiting their website](https://developer.microsoft.com/microsoft-365/dev-program) and joining the program.
 1. Study the [documentation](https://learn.microsoft.com/training/paths/m365-msgraph-fundamentals/) to learn how to access the Interstellar Network.
-1. Although the Intersteller Network is extremely advanced, they still use HTML and JavaScript. To interact with their network, create a simple HTML page with JavaScript that allows you to:
+1. Although the Intersteller Network is extremely advanced, they still use HTML and JavaScript. To interact with their network, create a simple HTML page with JavaScript that does the following:
     - Sign into the Interstellar Network using your Starborn credentials.
     - Display your profile information.
     - Determine and display who you directly report to in the interstellar hierarchy.
