@@ -14,9 +14,9 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 
 ### 1. Enter the Challenge Arena
 
-To get started, enter the "challenge arena" by clicking the button below. This will create a GitHub Codespace for you to use.
+To get started, enter the "challenge arena" by clicking the button below. Once it loads select the **Create 
 
-[![Enter Challenge Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Challenge+Arena&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&repo=1767249&ref=main&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2)
+[![Enter Challenge Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Challenge+Arena&message=Open&color=brightgreen&logo=github)](https://codespaces.new/DanWahlin/CopilotChallenge)
 
 If you'd prefer to work locally, follow the steps below:
 
