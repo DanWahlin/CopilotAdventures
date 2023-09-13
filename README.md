@@ -6,8 +6,6 @@
 
 Welcome to the Copilot Challenge! This challenge is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code.
 
-To get started, walk through our [warmup challenge](./Challenges/StartHere.md) to ensure that you have the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) extension installed and are signed into GitHub in VS Code.
-
 ## Choose Your Own Copilot Adventure
 
 <picture>
@@ -32,7 +30,10 @@ If you'd prefer to work locally, follow the steps below:
 
 ### 2. Choose a Copilot Challenge
 
-- [Warmup Challenge](./Challenges/StartHere.md) - Start here if you're new to GitHub Copilot.
+New to GitHub Copilot? Start with the [Warmup Challenge](./Challenges/StartHere.md) to learn the basics.
+
+Once you've completed the warmup challenge, choose a challenge from the list below:
+
 - Beginner Challenges
     - [The Clockwork Town of Tempora](./Challenges/1-Beginner/The-Clockwork-Town-of-Tempora.md)
     - [The Magical Forest of Algora](./Challenges/1-Beginner/The-Magical-Forest-of-Algora.md)
