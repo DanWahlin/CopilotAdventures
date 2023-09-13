@@ -1,7 +1,7 @@
 ## The Clockwork Town of Tempora
 
 <picture>
-    <img src="../../Images/tempora-clocks.jpg"  />
+    <img src="../../Images/tempora-clocks.jpg"  style="width: 830px" />
 </picture>
 
 ### Background

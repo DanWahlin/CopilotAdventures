@@ -1,7 +1,7 @@
 ## The Scrolls of Eldoria
 
 <picture>
-    <img src="../../Images/eldoria.jpg" />
+    <img src="../../Images/eldoria.jpg" style="width: 830px" />
 </picture>
 
 ### Background

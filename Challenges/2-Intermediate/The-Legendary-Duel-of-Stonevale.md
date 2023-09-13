@@ -1,7 +1,7 @@
 ## The Legendary Duel of Stonevale
 
 <picture>
-    <img src="../../Images/stonevale.jpg" />
+    <img src="../../Images/stonevale.jpg" style="width: 830px" />
 </picture>
 
 ### Background

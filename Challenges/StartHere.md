@@ -1,7 +1,7 @@
 ## GitHub Copilot Warmup Challenge
 
 <picture>
-    <img src="../Images/warm-up.jpg" />
+    <img src="../Images/warm-up.jpg" style="width: 830px" />
 </picture>
 
 GitHub Copilot is an AI pair programmer that helps you write better code. In this warm up challenge you'll get to know Copilot and try it out for yourself. Here are a few things you can do with GitHub Copilot:
@@ -37,7 +37,7 @@ Let's get started with your first challenge!
 ## Your First Challenge: The Chamber of Echoes
 
 <picture>
-    <img src="../Images/echo-castle.jpg" />
+    <img src="../Images/echo-castle.jpg" style="width: 830px" />
 </picture>
 
 ### Background:
@@ -161,7 +161,7 @@ This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to us
 ## Echo Castle's Hidden Treasure is Now Yours!
 
 <picture>
-    <img src="../Images/echo-castle-treasure.jpg" />
+    <img src="../Images/echo-castle-treasure.jpg" style="width: 830px" />
 </picture>
 
 You've completed your first GitHub Copilot "warmup" challenge! Check out the other challenges located in the [Challenges](../Challenges) folder to see other ways GitHub Copilot can be used.

@@ -1,7 +1,7 @@
 ## The Gridlock Arena of Mythos
 
 <picture>
-   <img src="../../Images/mythos-arena-full.jpg" />
+   <img src="../../Images/mythos-arena-full.jpg" style="width: 830px" />
 </picture>
 
 ### Background

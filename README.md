@@ -9,7 +9,7 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 ## Choose Your Own Copilot Adventure
 
 <picture>
-    <img src="./Images/choose-own-adventure.jpg" />
+    <img src="./Images/choose-own-adventure.jpg" style="width: 830px" />
 </picture>
 
 ### 1. Enter the Challenge Arena
@@ -59,7 +59,7 @@ Read Your Copilot Challenge description, the high-Level steps to perform, and th
 ## Next Steps: Learn a New Language or Create a UI for Your Challenge
 
 <picture>
-    <img src="./Images/learn-more.jpg" />
+    <img src="./Images/learn-more.jpg" style="width: 830px" />
 </picture>
 
 Once you've completed your first challenge, try it again but this time use GitHub Copilot to complete the challenge using a language that's new to you. For example, if you normally write code in C#, use Copilot to help you solve the challenge using Python or another language you'd like to learn more about.
