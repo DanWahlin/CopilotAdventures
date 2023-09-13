@@ -6,9 +6,9 @@
 
 In a galaxy far, far away, civilizations have advanced to the point where interstellar travel and settling on distant planets have become commonplace. Each planet is inhabited by "Starborn", humans who have adapted and evolved according to their new home planets.
 
-The Starborn civilizations are connected by a vast digital network known as the "Interstellar Network". The primary purpose of this network is to maintain records of each Starborn and their roles in the interstellar hierarchy.
+The Starborn civilizations are connected by a vast digital network known as the "Interstellar Network". The primary purpose of this network is to maintain records of each Starborn and their roles in the interstellar community.
 
-As planets and stars have their own orbits and hierarchies, so do the Starborn. Each Starborn has a direct superior they report to, and this chain goes up to the Supreme Starlord, the leader of the entire Starborn civilization.
+As planets and stars have their own orbits and hierarchies, so do the Starborn. Each Starborn has a direct superior they report to, and this chain goes up to the Nebula Nomarch, the leader of the entire Starborn civilization.
 
 ### Objective
 
