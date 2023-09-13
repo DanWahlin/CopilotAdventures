@@ -1,6 +1,8 @@
 ## The Scrolls of Eldoria
 
-<img src="../../Images/eldoria.jpg" />
+<picture>
+    <img src="../../Images/eldoria.jpg" />
+</picture>
 
 ### Background
 

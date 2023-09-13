@@ -1,6 +1,8 @@
 # Copilot Challenge
 
-<img src="./Images/robot-challenge.jpg" />
+<picture>
+    <img src="./Images/robot-challenge.jpg" />
+</picture>
 
 Welcome to the Copilot Challenge! This challenge is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code.
 
@@ -16,7 +18,7 @@ To get started, walk through our [warmup challenge](./Challenges/StartHere.md) t
 
 To get started, enter the "challenge arena" by clicking the button below. 
 
-    [![Open in GitHub - Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2)
+    [![Enter Challenge Arena](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&repo=1767249&ref=main&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2)
 
 If you'd prefer to work locally, follow the steps below:
 
@@ -55,7 +57,9 @@ Read Your Copilot Challenge description, the high-Level steps to perform, and th
 
 ## Next Steps: Learn a New Language or Create a UI for Your Challenge
 
-<img src="./Images/learn-more.jpg" />
+<picture>
+    <img src="./Images/learn-more.jpg" />
+</picture>
 
 Once you've completed your first challenge, try it again but this time use GitHub Copilot to complete the challenge using a language that's new to you. For example, if you normally write code in C#, use Copilot to help you solve the challenge using Python or another language you'd like to learn more about.
 

@@ -1,6 +1,8 @@
 ## The Gridlock Arena of Mythos
 
-<img src="../../Images/mythos-arena-full.jpg" />
+<picture>
+   <img src="../../Images/mythos-arena-full.jpg" />
+</picture>
 
 ### Background
 
@@ -40,8 +42,10 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
     - Display the current scores for each creature right below the grid after each move.
     - At the end of the battle, return the total points each creature accumulated.
 
-
-        <img src="../../Images/mythos-board-example.png">
+      
+      <picture>
+         <img src="../../Images/mythos-board-example.png">
+      </picture>
 
 ### Constraints
 

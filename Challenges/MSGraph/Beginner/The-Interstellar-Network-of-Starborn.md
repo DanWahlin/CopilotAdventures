@@ -1,6 +1,8 @@
 ## The Interstellar Network of Starborn
 
-<img src="../../../Images/starborn.jpg" />
+<picture>
+    <img src="../../../Images/starborn.jpg" />
+</picture>
 
 ### Background
 
