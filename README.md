@@ -1,7 +1,7 @@
 # Copilot Challenge
 
 <picture>
-    <img src="./Images/robot-challenge.jpg" />
+    <img src="./Images/robot-challenge.jpg" style="width: 830px" />
 </picture>
 
 Welcome to the Copilot Challenge! This challenge is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code. Let's get started!
@@ -14,7 +14,7 @@ Welcome to the Copilot Challenge! This challenge is all about learning new conce
 
 ### 1. Enter the Challenge Arena
 
-To get started, enter the "challenge arena" by clicking the button below. Once it loads select the **Create 
+To get started, enter the "challenge arena" by clicking the button below. This will create a GitHub Codespace that you can work in. Once it loads select the **Create codespace** button.
 
 [![Enter Challenge Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Challenge+Arena&message=Open&color=brightgreen&logo=github)](https://codespaces.new/DanWahlin/CopilotChallenge)
 
