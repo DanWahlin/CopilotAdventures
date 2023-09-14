@@ -57,7 +57,7 @@ Read Your Copilot Challenge description, the high-Level steps to perform, and th
     ```
     Solution for [Name of Your Challenge]
     ```
-    
+
     Replace `[Name of Your Challenge]` with the challenge name you chose to solve.
 
 - Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
@@ -84,7 +84,3 @@ Do you have a copilot challenge story/puzzle you'd like to submit for others to 
 - Provide a solution using your chosen language. Place all of the code in a single file (to keep things simple) and include it in the PR.
 
 We'll review your submission and merge it into the repo if it meets the criteria.
-
-Broken:
-
-https://github.com/DanWahlin/CopilotChallenge/blob/main/Challenges/2-Intermediate/The-Scrolls-of-Eldoria.md
