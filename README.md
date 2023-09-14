@@ -40,7 +40,7 @@ Once you've completed the warmup challenge, choose a challenge from the list bel
 - Intermediate Challenges
     - [The Celestia Alignment of Lumoria](./Challenges/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
     - [The Legendary Duel of Stonevale](./Challenges/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
-    - [The Scrolls of Eldoria](./Challenges/2-Intermediate/The-Scrolls-of-Eldoria.md) 
+    - [The Scrolls of Eldoria](./Challenges/2-Intermediate/The-Scrolls-of-Eldoria.md)
 - Advanced Challenges
     - [The Gridlock Arena of Mythos](./Challenges/3-Advanced/The-Gridlock-Arena-of-Mythos.md)
 
