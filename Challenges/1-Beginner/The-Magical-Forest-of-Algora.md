@@ -61,3 +61,14 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
 3. Determine the effect of the combined dance moves on the forest.
 4. Update the state of the forest after each sequence.
 5. Display the final state of the forest after the dance is complete.
+
+### Tips to Get Started
+
+1. Ensure that you have your target language/framework installed.
+    - [Node.js](https://nodejs.org)
+    - [Python](https://www.python.org/downloads/)
+    - [.NET Core](https://dot.net), etc.)
+1. Create a folder for your code. 
+    - JavaScript: Create a folder called `tempora` and add a file named `app.js`.
+    - Python: Create a folder called `tempora` and add a file named `app.py`.
+    - C#: Create a folder called `tempora` and run `dotnet new console`;

@@ -38,3 +38,14 @@ Your task is to create a system that checks all the clocks in the town and synch
 1. Parse the time data for each clock and the Grand Clock Tower.
 2. Calculate the difference in minutes between each clock and the Grand Clock Tower.
 3. Output the list of time differences.
+
+### Tips to Get Started
+
+1. Ensure that you have your target language/framework installed.
+    - [Node.js](https://nodejs.org)
+    - [Python](https://www.python.org/downloads/)
+    - [.NET Core](https://dot.net), etc.)
+1. Create a folder for your code. 
+    - JavaScript: Create a folder called `tempora` and add a file named `app.js`.
+    - Python: Create a folder called `tempora` and add a file named `app.py`.
+    - C#: Create a folder called `tempora` and run `dotnet new console`;
