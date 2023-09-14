@@ -47,7 +47,7 @@ The planets aren't sorted by their distance from the Lumorian Sun so you'll need
 1. For each planet, check the planets that are closer to the Lumorian Sun to see if they cast a shadow on other planets.
 1. Output the light intensity each planet receives.
 
-### GitHub Copilot Steps
+### GitHub Copilot Tips
 
 First, you're going to need to get the planets into a data structure that you can work with.
 
