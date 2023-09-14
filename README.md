@@ -18,15 +18,7 @@ To get started, enter the "challenge arena" by clicking the button below. This w
 
 [![Enter Challenge Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Challenge+Arena&message=Open&color=brightgreen&logo=github)](https://codespaces.new/DanWahlin/CopilotChallenge)
 
-If you'd prefer to work locally, follow the steps below:
-
-- Select the **Fork** button at the top of the page to fork the repository to your GitHub account.
-- Clone the repository to your local machine and open it in VS Code:
-
-```bash
-# Run the following command in your terminal
-git clone <YOUR_REPOSITORY_URL>
-```
+**NOTE:** You can use 60 hours of GitHub Codespaces for free each month.
 
 ### 2. Choose a Copilot Challenge
 
