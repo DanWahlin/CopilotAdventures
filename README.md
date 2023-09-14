@@ -52,11 +52,13 @@ Read Your Copilot Challenge description, the high-Level steps to perform, and th
 
 ### 4. Submit Your Challenge Solution
 
-- Once you've completed the challenge, submit a pull request (PR) to this repository with your solution. Use the following naming convention for the PR title:
+- Once you've completed the challenge, submit a pull request (PR) to this repository with your solution. Use the following naming convention for the PR title. 
 
     ```
-    Solution for <Name of Your Challenge>
+    Solution for [Name of Your Challenge]
     ```
+    
+    Replace `[Name of Your Challenge]` with the challenge name you chose to solve.
 
 - Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
 - If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear your feedback!
@@ -75,7 +77,7 @@ Try creating a UI for your challenge. Use pure HTML/CSS/JavaScript or a library/
 
 Do you have a copilot challenge story/puzzle you'd like to submit for others to go through? We'd love to see it! Please submit a pull request to this repository with your challenge and solution. 
 
-- Add `New Copilot Challenge: [Your Challenge Name]` into the PR title. Replace `[Your Challenge Name]` with the name of your challenge.
+- Use `New Copilot Challenge: [Your Challenge Name]` for the PR title. Replace `[Your Challenge Name]` with the name of your challenge.
 - Include if your challenge is at the beginner, intermediate, or advanced level.
 - Follow the markdown template used with each challenge in the [Challenges](./Challenges) folder as you create your challenge.
 - Provide an image for your challenge (use [Bing Image Creator](https://www.bing.com/create) or another image generator solution).
