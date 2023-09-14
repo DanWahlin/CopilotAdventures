@@ -54,9 +54,9 @@ Read Your Copilot Challenge description, the high-Level steps to perform, and th
 
 - Once you've completed the challenge, submit a pull request (PR) to this repository with your solution. Use the following naming convention for the PR title:
 
-```
-Solution for <Name of Your Challenge>
-```
+    ```
+    Solution for <Name of Your Challenge>
+    ```
 
 - Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
 - If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear your feedback!
