@@ -1,13 +1,5 @@
 {
     "name": "CopilotChallenge",
-    "service": "app",
-    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
-    "forwardPorts": [],
-    "features": {
-        "ghcr.io/devcontainers/features/github-cli:1": {
-            "version": "latest"
-        }
-    },
     // Configure tool-specific properties.
     "customizations": {
         "vscode": {
