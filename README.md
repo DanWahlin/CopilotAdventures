@@ -1,5 +1,3 @@
-# Copilot Challenge
-
 <picture>
     <img src="./Images/robot-challenge.jpg" style="width: 830px" />
 </picture>
