@@ -9,11 +9,5 @@
                 "gitHub.vscode-pull-request-github"
             ]
         }
-    },
-    "postCreateCommand": "",
-    "hostRequirements": {
-        "cpus": 2,
-        "memory": "8gb",
-        "storage": "32gb"
     }
 }
