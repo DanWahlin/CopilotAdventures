@@ -76,6 +76,10 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
 
 ### GitHub Copilot Tips
 
+<picture>
+    <img src="../../Images/copilot-tips.jpg"  style="width: 830px" />
+</picture>
+
 #### Use Copilot to improve efficiency
 
 See if you can use Copilot to find out the complexity (BigO notation) of the code.

@@ -49,6 +49,10 @@ The planets aren't sorted by their distance from the Lumorian Sun so you'll need
 
 ### GitHub Copilot Tips
 
+<picture>
+    <img src="../../Images/copilot-tips.jpg"  style="width: 830px" />
+</picture>
+
 First, you're going to need to get the planets into a data structure that you can work with.
 
 1. Copy the Markdown table shown earlier.

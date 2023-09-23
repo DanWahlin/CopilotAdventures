@@ -10,7 +10,7 @@ dotnet run [sample name]
 For example, to run the Lumoria challenge sample you would use:
 
 ```bash
-dotnet run lumoria
+dotnet run [ algora | chamberofechoes | eldoria | lumoria | mythos | stonevale | temporal ]
 ```
 
 ## Prerequisites

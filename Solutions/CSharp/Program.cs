@@ -13,6 +13,9 @@ public class Program
             case "algora":
                 Algora.Run();
                 break;
+            case "chamberofechoes":
+                ChamberOfEchoes.Run();
+                break;
             case "eldoria":
                 Eldoria.Run();
                 break;

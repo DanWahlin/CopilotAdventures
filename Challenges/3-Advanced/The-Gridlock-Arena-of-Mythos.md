@@ -91,6 +91,10 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
 
 ### GitHub Copilot Tips
 
+<picture>
+    <img src="../../Images/copilot-tips.jpg"  style="width: 830px" />
+</picture>
+
 #### Use Copilot to improve efficiency
 
 See if you can use Copilot to find out the complexity (BigO notation) of the code.
