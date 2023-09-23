@@ -16,13 +16,13 @@ To get started, enter the "challenge arena" by clicking the button below. This w
 
 [![Enter Challenge Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Challenge+Arena&message=Open&color=brightgreen&logo=github)](https://codespaces.new/DanWahlin/CopilotChallenge)
 
-**NOTE:** You can use [60 hours of GitHub Codespaces for free](https://github.com/features/codespaces#pricing) each month.
+**NOTE:** You can use 60 hours of GitHub Codespaces [for free](https://github.com/features/codespaces#pricing) each month.
 
 ### 2. Choose a Copilot Challenge
 
 New to GitHub Copilot? Start with the [Warmup Challenge](./Challenges/StartHere.md) to learn the basics.
 
-Once you've completed the warmup challenge, choose a challenge from the list below:
+Once you've completed the warmup challenge, choose another challenge from the list below:
 
 - Beginner Challenges
     - [The Clockwork Town of Tempora](./Challenges/1-Beginner/The-Clockwork-Town-of-Tempora.md)
