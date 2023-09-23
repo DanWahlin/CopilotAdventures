@@ -36,8 +36,8 @@ public class Lumoria
         var lumoriaPlanets = new List<Planet>
         {
             new Planet { Name = "Mercuria", Distance = 0.4, Size = 4879 },
-            new Planet { Name = "Venusia", Distance = 0.7, Size = 12104 },
             new Planet { Name = "Earthia", Distance = 1, Size = 12742 },
+            new Planet { Name = "Venusia", Distance = 0.7, Size = 12104 },
             new Planet { Name = "Marsia", Distance = 1.5, Size = 6779 }
         };
 

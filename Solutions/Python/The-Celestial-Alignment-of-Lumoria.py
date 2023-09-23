@@ -1,8 +1,8 @@
 # Planet objects with their name, distance from Lumoria, and size
 lumoria_planets = [
     { "name": "Mercuria", "distance": 0.4, "size": 4879 },
-    { "name": "Venusia", "distance": 0.7, "size": 12104 },
     { "name": "Earthia", "distance": 1, "size": 12742 },
+    { "name": "Venusia", "distance": 0.7, "size": 12104 },
     { "name": "Marsia", "distance": 1.5, "size": 6779 }
 ]
 

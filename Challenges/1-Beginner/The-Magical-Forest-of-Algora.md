@@ -73,3 +73,39 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
     - JavaScript: Create a folder called `tempora` and add a file named `app.js`.
     - Python: Create a folder called `tempora` and add a file named `app.py`.
     - C#: Create a folder called `tempora` and run `dotnet new console`;
+
+### GitHub Copilot Tips
+
+#### Use Copilot to improve efficiency
+
+See if you can use Copilot to find out the complexity (BigO notation) of the code.
+
+1. Open the [GitHub Copilot Chat view](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat#asking-your-first-question) in the sidebar if it's not already open. Make sure your solution file is still open as well.
+
+1. Ask Copilot Chat what the complexity of the code is.
+
+1. Ask Copilot Chat to make the code more efficient.
+
+1. Ask for the complexity again - is it better?
+
+#### Use Copilot to generate code comments
+
+1. Highlight all of the code with <kbd>Ctrl</kbd>/<kbd>Cmd</kbd>+<kbd>A</kbd>.
+
+1. Press <kbd>Ctrl</kbd>/<kbd>Cmd</kbd>+<kbd>I</kbd> to open the inline chat. 
+
+1. Type "/doc"
+
+1. Ask Copilot Chat to document the function.
+
+#### Use Copilot to simplify your code
+
+1. Open GitHub Copilot Chat in the sidebar.
+
+1. Type "/simplify" and press <kbd>Enter</kbd>. You can also add any text you want after the "/simplify" to give Copilot more instructions.
+
+1. What did Copilot Chat suggest you do to make it simpler?
+
+#### Got Errors?
+
+Copilot Chat can help with that too! Just copy the error message and paste it into Chat. Often that's all Copilot needs to resolve your issue.

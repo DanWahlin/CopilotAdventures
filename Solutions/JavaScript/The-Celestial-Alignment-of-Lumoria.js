@@ -1,10 +1,12 @@
 // Planet objects with their name, distance from Lumoria, and size
 const lumoriaPlanets = [
     { name: "Mercuria", distance: 0.4, size: 4879 },
-    { name: "Venusia", distance: 0.7, size: 12104 },
     { name: "Earthia", distance: 1, size: 12742 },
+    { name: "Venusia", distance: 0.7, size: 12104 },
     { name: "Marsia", distance: 1.5, size: 6779 }
 ];
+
+
 
 // Takes an array of planets and the current index for the planet being evaluated
 // and returns the number of planets that cast a shadow on the current planet
@@ -20,10 +22,10 @@ function getShadowCount(planets, currentIndex) {
 function getLightIntensity(i, shadowCount) {
     /** 
      * RULES
-     * - If the planet is the first in the array (closest to the sun), return "Full"
-     * - If the planet has one shadow cast on it, return "None"
-     * - If the planet has more than one shadow cast on it, return "None (Multiple Shadows)"
-     * - Otherwise, return "Partial"
+     * - If a smaller planet is behind a larger planet (relative to the Lumorian Sun), it will be in the shadow and will receive no light (`None`).
+     * - If a larger planet is behind a smaller planet (relative to the Lumorian Sun), it will have `Partial` light.
+     * - If a planet is in the shadow of multiple planets, it will be marked as `None (Multiple Shadows)`.
+     * - If two planets are of similar size and are near each other in alignment, they might partially eclipse each other, but for simplicity, you can consider them both to receive full light.
      **/
     if (i === 0) return 'Full';
     if (shadowCount === 1) return 'None';
