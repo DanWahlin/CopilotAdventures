@@ -18,6 +18,12 @@ To get started, enter the "challenge arena" by clicking the button below. This w
 
 **NOTE:** You can use 60 hours of GitHub Codespaces [for free](https://github.com/features/codespaces#pricing) each month.
 
+If you'd prefer, you can clone the repo and run locally:
+
+```bash
+git clone https://github.com/danwahlin/copilotchallenge
+```
+
 ### 2. Choose a Copilot Challenge
 
 New to GitHub Copilot? Start with the [Warmup Challenge](./Challenges/StartHere.md) to learn the basics.
@@ -38,7 +44,7 @@ Once you've completed the warmup challenge, choose another challenge from the li
 
 Read Your Copilot Challenge description, the high-Level steps to perform, and the GitHub Copilot hints to help you write your code.
 
-- Use [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and/or [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) to help you write the code for the challenge. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
+- Use [GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot) and/or [GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat) to help you write the code for the challenge. You can use any language you'd like. Try learning a new language if you're up for the challenge (more on that below)!
 
 ### 4. Submit Your Challenge Solution
 

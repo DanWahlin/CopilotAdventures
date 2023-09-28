@@ -20,17 +20,15 @@ If you're brand new to GitHub Copilot check out this video to learn more about t
 
 ## Getting Started: Installing the GitHub Copilot Extension
 
-Follow the steps below to install the GitHub Copilot extension in VS Code.
+Follow the steps below to install the GitHub Copilot extension in Visual Studio or Visual Studio Code.
 
-1. If you don't already have VS Code installed, install it by visiting [https://code.visualstudio.com/](https://code.visualstudio.com/).
+1. Install [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/) if you don't have it already.
 
-1. Install the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) extension.
-    - Open VS Code and select the **Extensions** icon in the left navigation bar. Search for **GitHub Copilot** and select **Install**.
+1. Install GitHub Copilot by following the steps at https://docs.github.com/en/copilot/getting-started-with-github-copilot. 
+
+1. Install GitHub Copilot Chat by following the steps at https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat.
     
-1. Sign in to GitHub in VS Code. 
-    - Select the **Sign in to GitHub** button in the bottom left corner of the window. If you don't have a GitHub account, you can create one for free on the [GitHub website](https://github.com/signup).
-
-1. If you don't currently have a GitHub Copilot license, you can [get a free trial](https://github.com/login?return_to=%2fgithub-copilot%2fsignup).
+NOTE: If you don't currently have a GitHub Copilot license, you can [sign up for a free trial](https://github.com/login?return_to=%2fgithub-copilot%2fsignup).
 
 Let's get started with your first challenge!
 
