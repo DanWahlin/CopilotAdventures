@@ -45,7 +45,7 @@ Your task is to create a system that checks all the clocks in the town and synch
 1. If running locally, ensure that you have your target language/framework installed. 
     - [Node.js](https://nodejs.org)
     - [Python](https://www.python.org/downloads/)
-    - [.NET Core](https://dot.net)
+    - [.NET](https://dot.net)
 1. Create a folder for your code. 
     - JavaScript: Create a folder called `tempora` and add a file named `app.js`.
     - Python: Create a folder called `tempora` and add a file named `app.py`.

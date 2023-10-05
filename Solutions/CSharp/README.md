@@ -15,4 +15,4 @@ dotnet run [ algora | chamberofechoes | eldoria | lumoria | mythos | stonevale |
 
 ## Prerequisites
 
-To run these samples you'll need the .NET Core 7 SDK installed or you can use the GitHub Codespace available with this repository (see the root readme for more details). You can download the SDK [here](https://dotnet.microsoft.com/en-us/download/dotnet).
+To run these samples you'll need the .NET 7 SDK installed or you can use the GitHub Codespace available with this repository (see the root readme for more details). You can download the SDK [here](https://dotnet.microsoft.com/en-us/download/dotnet).
