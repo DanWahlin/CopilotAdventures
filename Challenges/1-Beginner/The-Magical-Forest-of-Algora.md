@@ -68,7 +68,7 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
 1. If running locally, ensure that you have your target language/framework installed. 
     - [Node.js](https://nodejs.org)
     - [Python](https://www.python.org/downloads/)
-    - [.NET Core](https://dot.net)
+    - [.NET](https://dot.net)
 1. Create a folder for your code. 
     - JavaScript: Create a folder called `tempora` and add a file named `app.js`.
     - Python: Create a folder called `tempora` and add a file named `app.py`.
