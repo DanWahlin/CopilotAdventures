@@ -7,7 +7,7 @@ dotnet run [sample name]
 # Sample names include: lumoria, algora, stonevale, temporal, mythos
 ```
 
-For example, to run the Lumoria challenge sample you would use:
+For example, to run the Lumoria adventure sample you would use:
 
 ```bash
 dotnet run [ algora | chamberofechoes | eldoria | lumoria | mythos | stonevale | temporal ]

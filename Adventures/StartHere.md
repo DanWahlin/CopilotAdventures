@@ -1,10 +1,10 @@
-## GitHub Copilot Warmup Challenge
+## GitHub Copilot Warmup Adventure
 
 <picture>
     <img src="../Images/warm-up.jpg" style="width: 830px" />
 </picture>
 
-GitHub Copilot is an AI pair programmer that helps you write better code. In this warm up challenge you'll get to know Copilot and try it out for yourself. Here are a few things you can do with GitHub Copilot:
+GitHub Copilot is an AI pair programmer that helps you write better code. In this warm up adventure you'll get to know Copilot and try it out for yourself. Here are a few things you can do with GitHub Copilot:
 
 - Convert comments into code. Need to make an HTTP call, filter an array, or perform another task? Write a comment and Copilot will convert it into code for you. 
 - Create a UI. Use pure HTML/CSS/JavaScript or a library/framework of your choosing. 
@@ -14,7 +14,7 @@ GitHub Copilot is an AI pair programmer that helps you write better code. In thi
 - Explain code you're working on.
 - And more!
 
-If you're brand new to GitHub Copilot check out this video to learn more about the benefits it can bring to your development workflow. Once you've watched the video, come back here and choose a challenge to get started.
+If you're brand new to GitHub Copilot check out this video to learn more about the benefits it can bring to your development workflow. Once you've watched the video, come back here and choose an adventure to get started.
     
 [![GitHub Copilot Video](../Images/copilot-video.png)](https://www.youtube.com/watch?v=Dlt-DCLHnxM)
 
@@ -30,9 +30,9 @@ Follow the steps below to install the GitHub Copilot extension in Visual Studio 
     
 NOTE: If you don't currently have a GitHub Copilot license, you can [sign up for a free trial](https://github.com/login?return_to=%2fgithub-copilot%2fsignup).
 
-Let's get started with your first challenge!
+Let's get started with your first adventure!
 
-## Your First Challenge: The Chamber of Echoes
+## Your First Adventure: The Chamber of Echoes
 
 <picture>
     <img src="../Images/echo-castle.jpg" style="width: 830px" />
@@ -162,4 +162,4 @@ This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to us
     <img src="../Images/echo-castle-treasure.jpg" style="width: 830px" />
 </picture>
 
-You've completed your first GitHub Copilot "warmup" challenge! Check out the other challenges located in the [Challenges](../Challenges) folder to see other ways GitHub Copilot can be used.
+You've completed your first GitHub Copilot "warmup" adventure! Check out the other adventures located in the [Adventures](../Adventures) folder to see other ways GitHub Copilot can be used.
