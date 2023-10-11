@@ -59,7 +59,7 @@ Read Your Copilot Adventure description, the high-Level steps to perform, and th
 - Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
 - If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear your feedback!
 
-## Next Steps: Learn a New Language or Create a UI for Your Adveture
+## Next Steps: Learn a New Language or Create a UI for Your Adventure
 
 <picture>
     <img src="./Images/learn-more.jpg" style="width: 830px" />
