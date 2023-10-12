@@ -48,16 +48,20 @@ Read Your Copilot Adventure description, the high-Level steps to perform, and th
 
 ### 4. Submit Your Adventure Solution
 
-- Once you've completed the adventure, submit a pull request (PR) to this repository with your solution. Use the following naming convention for the PR title. 
+Perform the following steps:
+
+- Publish your adventure solution to a GitHub repo. 
+- Go to https://github.com/DanWahlin/CopilotAdventures/issues and select `New Issue`.
+- Use the following naming convention for the title. 
 
     ```
     Solution for [Name of Your Adventure]
     ```
 
-    Replace `[Name of Your Adventure]` with the adventure name you chose to solve.
+    Replace `[Name of Your Adventure]` with the adventure name you chose to solve (example: `The Legendary Duel of Stonevale`).
 
-- Leave any comments in your code to explain your thought process and show prompts that [GitHub Copilot](https://github.com/features/copilot) used to help you out.
-- If you have any feedback, please open an issue in the repo and share what you found (good or bad). We'd love to hear your feedback!
+- Add a link to your GitHub repo in the body section.
+- If you have any feedback, share what you found (good or bad). We'd love to hear your feedback!
 
 ## Next Steps: Learn a New Language or Create a UI for Your Adventure
 
