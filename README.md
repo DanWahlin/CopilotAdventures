@@ -24,7 +24,7 @@ If you'd prefer, you can clone the repo and run locally:
 git clone https://github.com/danwahlin/copilotadventures
 ```
 
-### 2. Choose a Copilot Adventure
+### 2. Choose an Adventure
 
 New to GitHub Copilot? Start with the [Warmup Adventure](./Adventures/StartHere.md) to learn the basics.
 
