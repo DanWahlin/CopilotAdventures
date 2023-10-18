@@ -30,7 +30,10 @@ New to GitHub Copilot? Start with the [Warmup Adventure](./Adventures/StartHere.
 
 Once you've completed the warmup adventure, choose another one from the list below:
 
-**Beginner Adventures:** You have basic programming language knowledge (variables, loops, conditionals, arrays)
+#### Beginner Adventures:
+
+You have basic programming language knowledge (variables, loops, conditionals, arrays)
+
 - [The Clockwork Town of Tempora](./Adventures/1-Beginner/The-Clockwork-Town-of-Tempora.md)
 - [The Magical Forest of Algora](./Adventures/1-Beginner/The-Magical-Forest-of-Algora.md)
 
