@@ -39,7 +39,7 @@ Pre-Reqs: Basic programming language knowledge (variables, loops, conditionals, 
 
 #### Intermediate Adventures
 
-Pre-Reqs: Hands-on experience with a programming language (understand control flow, algorithms, data structures).
+Pre-Reqs: Hands-on experience with a programming language (understand control flow, algorithms, data structures)
 
 - [The Celestia Alignment of Lumoria](./Adventures/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
 - [The Legendary Duel of Stonevale](./Adventures/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
@@ -47,7 +47,7 @@ Pre-Reqs: Hands-on experience with a programming language (understand control fl
 
 #### Advanced Adventures
 
-Pre-Reqs: Experienced developers with a solid understanding of algorithms and data structures.
+Pre-Reqs: Experienced developers with a solid understanding of algorithms and data structures
 
 - [The Gridlock Arena of Mythos](./Adventures/3-Advanced/The-Gridlock-Arena-of-Mythos.md)
 
