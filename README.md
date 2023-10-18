@@ -32,14 +32,14 @@ Once you've completed the warmup adventure, choose another one from the list bel
 
 #### Beginner Adventures
 
-Requires basic programming language knowledge (variables, loops, conditionals, arrays)
+Pre-Reqs: Basic programming language knowledge (variables, loops, conditionals, arrays)
 
 - [The Clockwork Town of Tempora](./Adventures/1-Beginner/The-Clockwork-Town-of-Tempora.md)
 - [The Magical Forest of Algora](./Adventures/1-Beginner/The-Magical-Forest-of-Algora.md)
 
 #### Intermediate Adventures
 
-Developers with hands-on experience with a programming language (understand control flow, algorithms, data structures).
+Pre-Reqs: Developers with hands-on experience with a programming language (understand control flow, algorithms, data structures).
 
 - [The Celestia Alignment of Lumoria](./Adventures/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
 - [The Legendary Duel of Stonevale](./Adventures/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
@@ -47,7 +47,7 @@ Developers with hands-on experience with a programming language (understand cont
 
 #### Advanced Adventures
 
-Experienced developers with a solid understanding of algorithms and data structures.
+Pre-Reqs: Experienced developers with a solid understanding of algorithms and data structures.
 
 - [The Gridlock Arena of Mythos](./Adventures/3-Advanced/The-Gridlock-Arena-of-Mythos.md)
 
