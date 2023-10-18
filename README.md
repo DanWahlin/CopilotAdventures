@@ -39,7 +39,7 @@ Pre-Reqs: Basic programming language knowledge (variables, loops, conditionals, 
 
 #### Intermediate Adventures
 
-Pre-Reqs: Developers with hands-on experience with a programming language (understand control flow, algorithms, data structures).
+Pre-Reqs: Hands-on experience with a programming language (understand control flow, algorithms, data structures).
 
 - [The Celestia Alignment of Lumoria](./Adventures/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
 - [The Legendary Duel of Stonevale](./Adventures/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
