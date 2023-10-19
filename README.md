@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="./Images/copilot-adventures.jpg" style="width: 830px; pointer: none" />
+    <img src="./Images/copilot-adventures.jpg" style="width: 830px; cursor: pointer" />
 </a>
 
 Welcome to Copilot Adventures! This series of coding adventures is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code. Let's get started!
