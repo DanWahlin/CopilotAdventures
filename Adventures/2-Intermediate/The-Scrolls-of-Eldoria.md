@@ -1,8 +1,8 @@
 ## The Scrolls of Eldoria
 
-<picture>
+<a href="#">
     <img src="../../Images/eldoria.jpg" style="width: 830px" />
-</picture>
+</a>
 
 ### Background
 
@@ -40,9 +40,9 @@ You, a young sorcerer's apprentice, have been given the task to retrieve and dec
 
 ### GitHub Copilot Tips
 
-<picture>
+<a href="#">
     <img src="../../Images/copilot-tips.jpg"  style="width: 830px" />
-</picture>
+</a>
 
 #### Use Copilot to improve efficiency
 

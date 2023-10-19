@@ -1,8 +1,8 @@
 ## The Clockwork Town of Tempora
 
-<picture>
+<a href="#">
     <img src="../../Images/tempora-clocks.jpg"  style="width: 830px" />
-</picture>
+</a>
 
 ### Background
 
@@ -53,9 +53,9 @@ Your task is to create a system that checks all the clocks in the town and synch
 
 ### GitHub Copilot Tips
 
-<picture>
+<a href="#">
     <img src="../../Images/copilot-tips.jpg"  style="width: 830px" />
-</picture>
+</a>
 
 #### Use Copilot to improve efficiency
 

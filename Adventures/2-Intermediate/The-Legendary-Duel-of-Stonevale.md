@@ -1,8 +1,8 @@
 ## The Legendary Duel of Stonevale
 
-<picture>
+<a href="#">
     <img src="../../Images/stonevale.jpg" style="width: 830px" />
-</picture>
+</a>
 
 ### Background
 
@@ -64,9 +64,9 @@ Your task is to simulate the duel between Rok and Papyra. Each warrior makes a s
 
 ### GitHub Copilot Tips
 
-<picture>
+<a href="#">
     <img src="../../Images/copilot-tips.jpg"  style="width: 830px" />
-</picture>
+</a>
 
 #### Use Copilot to improve efficiency
 

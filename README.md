@@ -1,4 +1,4 @@
-<a href="#" style="cursor:default">
+<a href="#">
     <img src="./Images/copilot-adventures.jpg" style="width: 830px;" />
 </a>
 
@@ -10,9 +10,9 @@ Welcome to Copilot Adventures! This series of coding adventures is all about lea
 
 ## Choose Your Own Copilot Adventure
 
-<picture>
+<a href="#">
     <img src="./Images/choose-own-adventure.jpg" style="width: 830px" />
-</picture>
+</a>
 
 ### 1. Enter the Adventure Arena
 
@@ -77,9 +77,9 @@ Perform the following steps:
 
 ## Next Steps: Learn a New Language or Create a UI for Your Adventure
 
-<picture>
+<a href="#">
     <img src="./Images/learn-more.jpg" style="width: 830px" />
-</picture>
+</a>
 
 Once you've completed your first adventure, try it again but this time use GitHub Copilot to complete the adventure using a language that's new to you. For example, if you normally write code in C#, use Copilot to help you solve the adventure using Python or another language you'd like to learn more about.
 

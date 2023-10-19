@@ -1,8 +1,8 @@
 ## The Gridlock Arena of Mythos
 
-<picture>
+<a href="#">
    <img src="../../Images/mythos-arena-full.jpg" style="width: 830px" />
-</picture>
+</a>
 
 ### Background
 
@@ -43,9 +43,9 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
     - At the end of the battle, return the total points each creature accumulated.
 
       
-      <picture>
+      <a href="#">
          <img src="../../Images/mythos-board-example.png">
-      </picture>
+      </a>
 
 ### Constraints
 
@@ -91,9 +91,9 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
 
 ### GitHub Copilot Tips
 
-<picture>
+<a href="#">
     <img src="../../Images/copilot-tips.jpg"  style="width: 830px" />
-</picture>
+</a>
 
 #### Use Copilot to improve efficiency
 
