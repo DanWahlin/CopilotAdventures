@@ -4,7 +4,9 @@
 
 Welcome to Copilot Adventures! This series of coding adventures is all about learning new concepts and languages by using [GitHub Copilot](https://github.com/features/copilot) to help you write code. Let's get started!
 
-<a href="https://developer.microsoft.com/en-us/reactor/events/21031/?wt.mc_id=eventspg_21031_webpage_reactor"><img src="./Images/copilot-adventures-banner.png" style="width: 830px" /></a>
+<a href="https://developer.microsoft.com/en-us/reactor/events/21031/?wt.mc_id=eventspg_21031_webpage_reactor" target="_blank">
+    <img src="./Images/copilot-adventures-banner.png" style="width: 830px" />
+</a>
 
 ## Choose Your Own Copilot Adventure
 
