@@ -26,28 +26,24 @@ git clone https://github.com/danwahlin/copilotadventures
 
 ### 2. Choose an Adventure
 
+Pre-Reqs: Basic programming language knowledge is helpful.
+
 New to GitHub Copilot? Start with the [Warmup Adventure](./Adventures/StartHere.md) to learn the basics.
 
 Once you've completed the warmup adventure, choose another one from the list below:
 
 #### Beginner Adventures
 
-Pre-Reqs: Basic programming language knowledge (variables, loops, conditionals, arrays)
-
 - [The Clockwork Town of Tempora](./Adventures/1-Beginner/The-Clockwork-Town-of-Tempora.md)
 - [The Magical Forest of Algora](./Adventures/1-Beginner/The-Magical-Forest-of-Algora.md)
 
 #### Intermediate Adventures
-
-Pre-Reqs: Hands-on experience with a programming language (understand control flow, algorithms, data structures)
 
 - [The Celestia Alignment of Lumoria](./Adventures/2-Intermediate/The-Celestial-Alignment-of-Lumoria.md)
 - [The Legendary Duel of Stonevale](./Adventures/2-Intermediate/The-Legendary-Duel-of-Stonevale.md)
 - [The Scrolls of Eldoria](./Adventures/2-Intermediate/The-Scrolls-of-Eldoria.md)
 
 #### Advanced Adventures
-
-Pre-Reqs: Experienced developers with a solid understanding of algorithms and data structures
 
 - [The Gridlock Arena of Mythos](./Adventures/3-Advanced/The-Gridlock-Arena-of-Mythos.md)
 
