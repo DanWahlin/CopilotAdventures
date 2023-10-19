@@ -1,4 +1,4 @@
-<a href="#">
+<a href="#" style="cursor: default;">
     <img src="./Images/copilot-adventures.jpg" style="width: 830px;" />
 </a>
 
