@@ -1,3 +1,5 @@
+# This has moved to https://github.com/microsoft/copilotadventures 
+
 <a href="#">
     <img src="./Images/copilot-adventures.jpg" style="width: 830px;" />
 </a>
